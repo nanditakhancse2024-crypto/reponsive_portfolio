@@ -55,6 +55,8 @@ section {
     font-size: larger;
 }
 .hero img{
+    height: 230px; 
+    width: 210px;
     border-radius: 50%;
     border: solid azure 3px;
 }
