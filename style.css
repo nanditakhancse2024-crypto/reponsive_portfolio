@@ -43,22 +43,25 @@ h2{
         flex-wrap:wrap;
     }
     .about{
-        scroll-margin-top: 90px;
+        scroll-margin-top: 96px;
     }
     .about p{
         padding: 0px 25px;
     }
     .education{
-        scroll-margin-top: 90px;
+        scroll-margin-top: 96px;
+    }
+    .education p{
+        padding: 0px 25px;
     }
     .skills{
-        scroll-margin-top: 90px;
+        scroll-margin-top: 96px;
     }
     .projects{
-        scroll-margin-top: 90px;
+        scroll-margin-top: 96px;
     }
     .contact{
-        scroll-margin-top: 90px;
+        scroll-margin-top: 96px;
     }
     h2{
         font-size: 24px;
