@@ -42,8 +42,23 @@ h2{
         gap: 15px;
         flex-wrap:wrap;
     }
+    .about{
+        scroll-margin-top: 90px;
+    }
     .about p{
         padding: 0px 25px;
+    }
+    .education{
+        scroll-margin-top: 90px;
+    }
+    .skills{
+        scroll-margin-top: 90px;
+    }
+    .projects{
+        scroll-margin-top: 90px;
+    }
+    .contact{
+        scroll-margin-top: 90px;
     }
     h2{
         font-size: 24px;
