@@ -8,12 +8,12 @@ A responsive static portfolio website created using HTML and CSS.
 - Clean user-interface
 
 # Tech Stack 
-HTML5 – Structure and content
-CSS3 – Styling 
-Flexbox – Layout management
-Media Queries – Responsiveness
+- HTML5 – Structure and content
+- CSS3 – Styling 
+- Flexbox – Layout management
+- Media Queries – Responsiveness
 
 # Tools
-Git – Version control
-GitHub – Code hosting 
-VS Code - Code Editor
+- Git – Version control
+- GitHub – Code hosting 
+- VS Code - Code Editor
